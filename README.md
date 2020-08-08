@@ -6,61 +6,20 @@
 
 ### Summary & Quiz
 
-#### Part 1. 데이터 시스템의 기초
-
-* Chapter 1.  신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%201%20summary.pptx)   /   [Quiz](https://forms.gle/s28yC7jdSJGoQgxD6)
-    
-    
-* Chapter 2. 데이터 모델과 질의 언어 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%202%20summary.pptx)   /  [Quiz](https://forms.gle/QSNVRhdDCtFaU3Cd7)
-    
-* Chapter 3. 저장소와 검색 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%203%20summary.pptx)   /  [Quiz](https://forms.gle/yoT5ZyPTDao1sZgS8)
-
-* Chapter 4. 부호화와 발전 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%204%20summary.pptx)   /  [Quiz](https://forms.gle/nu6udEJk9XWBUE9a8)
-
-#### Part 2. 분산 데이터
-
-* Chapter 5. 복제 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%205%20summary.pptx)   / Quiz
-
-* Chapter 6. 파티셔닝 
-    
-    [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%206%20summary.pptx)   / Quiz
-
-* Chapter 7. 트랜잭션 
-    
-    PowerPoint / Quiz
-
-* Chapter 8. 분산 시스템의 골칫고리
-    
-    PowerPoint / Quiz
-    
-* Chapter 9. 일관성과 합의
-
-    PowerPoint / Quiz
-    
-#### Part 2. 분산 데이터    
-    
-* Chapter 10. 일괄 처리
-    
-    PowerPoint / Quiz
-    
-* Chapter 11. 스트림 처리
-
-    PowerPoint / Quiz
-    
-* Chapter 12. 데이터 시스템의 미래
-
-    PowerPoint / Quiz
-
+| Chapter  | Summary  |  Quiz  |
+| :-----   | :-----   | :----  |
+| 1.  신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%201%20summary.pptx) | [Quiz](https://forms.gle/s28yC7jdSJGoQgxD6) |
+| 2. 데이터 모델과 질의 언어  | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%202%20summary.pptx) | [Quiz](https://forms.gle/QSNVRhdDCtFaU3Cd7) |
+| 3. 저장소와 검색 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%203%20summary.pptx)  | [Quiz](https://forms.gle/yoT5ZyPTDao1sZgS8) |
+| 4. 부호화와 발전 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%204%20summary.pptx) | [Quiz](https://forms.gle/nu6udEJk9XWBUE9a8) |
+| 5. 복제  | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%205%20summary.pptx)  | Quiz |
+| 6. 파티셔닝 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%206%20summary.pptx) | Quiz |
+| 7. 트랜잭션 | PowerPoint | Quiz |
+| 8. 분산 시스템의 골칫고리 | PowerPoint | Quiz |
+| 9. 일관성과 합의 | PowerPoint | Quiz |
+| 10. 일괄 처리 | PowerPoint | Quiz |
+| 11. 스트림 처리 | PowerPoint | Quiz |
+| 12. 데이터 시스템의 미래 | PowerPoint | Quiz |
 ----
 
 ### **진행 방식**
