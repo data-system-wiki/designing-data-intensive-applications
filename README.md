@@ -6,6 +6,8 @@
 
 ### Summary & Quiz
 
+*Quiz는 Google 설문지로 작성되어 자동 채점됩니다. 각 챕터 별로 8개의 문제씩 출제되어 있습니다*
+
 | Chapter  | Summary  |  Quiz  |
 | :-----   | :-----   | :----  |
 | 1.  신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%201%20summary.pptx) | [Quiz](https://forms.gle/s28yC7jdSJGoQgxD6) |
