@@ -17,7 +17,7 @@
 | 5. 복제  | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%205%20summary.pptx)  | [Quiz](https://forms.gle/NKiJHUFmhBXR8HXB8) |
 | 6. 파티셔닝 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%206%20summary.pptx) | [Quiz](https://forms.gle/qxyyszQa59gbGW5MA)|
 | 7. 트랜잭션 | PowerPoint | Quiz |
-| 8. 분산 시스템의 골칫고리 | PowerPoint | Quiz |
+| 8. 분산 시스템의 골칫고리 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%208%20summary.pptx) | Quiz |
 | 9. 일관성과 합의 | PowerPoint | Quiz |
 | 10. 일괄 처리 | PowerPoint | Quiz |
 | 11. 스트림 처리 | PowerPoint | Quiz |
