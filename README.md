@@ -16,8 +16,8 @@
 | 4. 부호화와 발전 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%204%20summary.pptx) | [Quiz](https://forms.gle/nu6udEJk9XWBUE9a8) |
 | 5. 복제  | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%205%20summary.pptx)  | [Quiz](https://forms.gle/NKiJHUFmhBXR8HXB8) |
 | 6. 파티셔닝 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%206%20summary.pptx) | [Quiz](https://forms.gle/qxyyszQa59gbGW5MA)|
-| 7. 트랜잭션 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%207%20summary.pptx) | Quiz |
-| 8. 분산 시스템의 골칫고리 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%208%20summary.pptx) | Quiz |
+| 7. 트랜잭션 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%207%20summary.pptx) | [Quiz](https://forms.gle/wqcYVT6YNnYhoSKJ6) |
+| 8. 분산 시스템의 골칫고리 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%208%20summary.pptx) | [Quiz](https://forms.gle/QLq3DLbtJGVzDjbt7) |
 | 9. 일관성과 합의 | PowerPoint | Quiz |
 | 10. 일괄 처리 | PowerPoint | Quiz |
 | 11. 스트림 처리 | PowerPoint | Quiz |
