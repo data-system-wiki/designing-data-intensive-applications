@@ -18,9 +18,9 @@
 | 6. 파티셔닝 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%206%20summary.pptx) | [Quiz](https://forms.gle/qxyyszQa59gbGW5MA)|
 | 7. 트랜잭션 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%207%20summary.pptx) | [Quiz](https://forms.gle/wqcYVT6YNnYhoSKJ6) |
 | 8. 분산 시스템의 골칫고리 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%208%20summary.pptx) | [Quiz](https://forms.gle/QLq3DLbtJGVzDjbt7) |
-| 9. 일관성과 합의 | PowerPoint | Quiz |
-| 10. 일괄 처리 | PowerPoint | Quiz |
-| 11. 스트림 처리 | PowerPoint | Quiz |
+| 9. 일관성과 합의 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%209%20summary.pptx) | [Quiz](https://forms.gle/CXoYjAcbG65Fqbg2A) |
+| 10. 일괄 처리 | [PowerPoint](https://github.com/data-system-wiki/designing-data-intensive-applications/blob/master/resources/chapter%2010%20summary.pptx) | [Quiz](https://forms.gle/UMVEJ5ri7nW55KBKA) |
+| 11. 스트림 처리 | PowerPoint | [Quiz]() |
 | 12. 데이터 시스템의 미래 | PowerPoint | Quiz |
 ----
 
